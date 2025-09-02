@@ -1,0 +1,79 @@
+{
+  "name": "Aetherion BG (Mnemosyne Edition)",
+  "description": "Dark teal/navy theme with Mnemosyne background",
+  "authors": [
+    {
+      "name": "ht7p",
+      "id": "539543503412396053"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": ["#2f4f7f"],
+    "BACKGROUND_ACCENT": ["#0b0d16"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0b0d16"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#12151f"],
+    "BACKGROUND_SECONDARY": ["#12151f"],
+    "BACKGROUND_SECONDARY_ALT": ["#0b0d16"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#1f3a3a"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1f3a3a"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#2f4f7f"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#1f3a3a"],
+    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#12151f"],
+    "REDESIGN_INPUT_CONTROL_SELECTED": ["#41bfb5"],
+    "BG_BASE_TERTIARY": ["#0b0d16"],
+    "BACKGROUND_FLOATING": ["#0b0d16"],
+    "BG_MOD_STRONG": ["#12151f"],
+    "SCROLLBAR_AUTO_THUMB": ["#41bfb5"],
+    "BG_BACKDROP": ["#0b0d16cc"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#0b0d16",
+    "PRIMARY_630": "#12151f",
+    "PRIMARY_645": "#12151f",
+    "PRIMARY_660": "#12151f",
+    "PRIMARY_700": "#0b0d16",
+    "PRIMARY_800": "#1f3a3a",
+    "GREEN_360": "#41bfb5",
+    "BRAND_100": "#d8e2f0",
+    "BRAND_200": "#c3d1e0",
+    "BRAND_300": "#aebccd",
+    "BRAND_400": "#41bfb5",
+    "BRAND_500": "#4fe1d1",
+    "BRAND_600": "#2f4f7f",
+    "BRAND_700": "#1f3a3a",
+    "BRAND_800": "#12151f",
+    "BRAND_900": "#0b0d16",
+    "TEXT_LINK": "#41bfb5",
+    "TEXT_NORMAL": "#d8e2f0",
+    "WHITE_500": "#d8e2f0",
+    "GUILD_BOOSTING_PURPLE": "#4fe1d1",
+    "GUILD_BOOSTING_BLUE": "#41bfb5",
+    "StatusOnline": "#41bfb5",
+    "StatusIdle": "#f6c177",
+    "StatusDND": "#eb6f92",
+    "StatusOffline": "#7a7f8c"
+  },
+  "fonts": {
+    "Iosevka-MediumItalic": "https://github.com/meowwplusplus/Meow-meow/iosevka-mediumitalic.ttf"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://github.com/meowwplusplus/Meow-meow/mnemosyne.jpg",
+    "alpha": 1
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#41bfb5",
+    "icons": {
+      "ic_new_pins": "#41bfb5",
+      "StatusStreaming": "#4fe1d1",
+      "StatusMobileOnline": "#41bfb5",
+      "StatusIdle": "#f6c177",
+      "StatusDND": "#eb6f92",
+      "StatusOffline": "#7a7f8c",
+      "StatusOnline": "#41bfb5"
+    }
+  },
+  "spec": 2
+}
